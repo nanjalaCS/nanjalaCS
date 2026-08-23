@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hi, This is Sheila
+📊 Data Analyst | Data Science & Machine Learning | Python • SQL • Power BI
 
-<!--
-**nanjalaCS/nanjalaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about turning data into meaningful insights and building data-driven solutions.
 
-Here are some ideas to get you started:
+I work across data analytics, business intelligence, and machine learning, using data to understand problems, uncover patterns, and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+🐍 Python & Data Analysis
+Python
+Pandas
+NumPy
+Matplotlib
+Exploratory Data Analysis
+Data Cleaning & Transformation
+Data Visualization
+
+📊 Data Analytics & Business Intelligence
+Power BI
+SQL
+Excel
+Power Query
+DAX
+Data Modeling
+Data Visualization
+Business Intelligence
+
+🤖 Machine Learning
+Scikit-learn
+Feature Engineering
+Model Development
+Model Evaluation
+Classification
+Regression
+🔧 Development & Collaboration
+Git
+GitHub
+VS Code
+MySQL
+
+🌱 Currently Developing
+Advanced Power BI & DAX
+Machine Learning
+Data Analytics
+SQL
+Data Visualization
+Business Intelligence
+
+📫 Let's Connect
+💼 LinkedIn: [www.linkedin.com/in/sheila-n-b366b9230]
+📧 Email: [nanjalasheila77@gmail.com]
