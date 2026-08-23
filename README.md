@@ -33,5 +33,5 @@ Data Visualization
 Business Intelligence
 
 📫 Let's Connect
-💼 LinkedIn: [www.linkedin.com/in/sheila-n-b366b9230]
-📧 Email: [nanjalasheila77@gmail.com]
+💼 LinkedIn: [💼 LinkedIn ]
+📧 Email: [📧 Email]
