@@ -7,36 +7,15 @@ I work across data analytics, business intelligence, and machine learning, using
 
 🛠️ Skills & Tools
 🐍 Python & Data Analysis
-Python
-Pandas
-NumPy
-Matplotlib
-Exploratory Data Analysis
-Data Cleaning & Transformation
-Data Visualization
+Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
 
 📊 Data Analytics & Business Intelligence
-Power BI
-SQL
-Excel
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Business Intelligence
+Power BI • SQL • Excel • Power Query • DAX • Data Modeling
 
 🤖 Machine Learning
-Scikit-learn
-Feature Engineering
-Model Development
-Model Evaluation
-Classification
-Regression
+Scikit-learn • Feature Engineering • Classification • Regression • Model Evaluation
 🔧 Development & Collaboration
-Git
-GitHub
-VS Code
-MySQL
+Git •GitHub• VScode • MySQL
 
 🌱 Currently Developing
 Advanced Power BI & DAX
