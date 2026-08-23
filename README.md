@@ -1,4 +1,4 @@
-👋 Hi, This is Sheila
+Hi, This is Sheila
 📊 Data Analyst | Data Science & Machine Learning | Python • SQL • Power BI
 
 I’m passionate about turning data into meaningful insights and building data-driven solutions.
