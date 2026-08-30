@@ -5,9 +5,9 @@ I’m passionate about turning data into meaningful insights and building data-d
 
 I work across data analytics, business intelligence, and machine learning, using data to understand problems, uncover patterns, and support better decision-making.
 
-🛠️ Skills & Tools
+ Skills & Tools
 
-🐍 Python & Data Analysis
+ Python & Data Analysis
 
 Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
 
